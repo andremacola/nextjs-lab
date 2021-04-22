@@ -6,7 +6,10 @@ function Home() {
 		<>
 			<h1>Home</h1>
 			<p>
-				<Link href="/sobre"><a>Link de exemplo pra página Sobre</a></Link>
+				<Link href="/sobre"><a>Sobre</a></Link>
+			</p>
+			<p>
+				<Link href="/tempo"><a>Tempo</a></Link>
 			</p>
 			<Contador />
 		</>
